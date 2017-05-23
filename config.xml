@@ -31,10 +31,10 @@ Aurora Garcia Hernandez
   <plugin name="cordova-plugin-dialogs" spec="~1.3.1"/>
   
   <!--Plugin para GeolocalizaR-->
-  <plugin name="cordova-plugin-geolocation" source=npm"/> 
+  <plugin name="cordova-plugin-geolocation" source="npm"/> 
   
   
-   <!--colocar icono app-->
+   <!-- colocar icono app -->
    
    <icon src="res/android/mdpi.png"/>
    
